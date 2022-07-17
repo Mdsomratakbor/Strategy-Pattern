@@ -1,0 +1,16 @@
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\bin\Debug\net5.0\ActionAdventureGame.exe
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\bin\Debug\net5.0\ActionAdventureGame.deps.json
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\bin\Debug\net5.0\ActionAdventureGame.runtimeconfig.json
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\bin\Debug\net5.0\ActionAdventureGame.runtimeconfig.dev.json
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\bin\Debug\net5.0\ActionAdventureGame.dll
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\bin\Debug\net5.0\ref\ActionAdventureGame.dll
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\bin\Debug\net5.0\ActionAdventureGame.pdb
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\obj\Debug\net5.0\ActionAdventureGame.csprojAssemblyReference.cache
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\obj\Debug\net5.0\ActionAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\obj\Debug\net5.0\ActionAdventureGame.AssemblyInfoInputs.cache
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\obj\Debug\net5.0\ActionAdventureGame.AssemblyInfo.cs
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\obj\Debug\net5.0\ActionAdventureGame.csproj.CoreCompileInputs.cache
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\obj\Debug\net5.0\ActionAdventureGame.dll
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\obj\Debug\net5.0\ref\ActionAdventureGame.dll
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\obj\Debug\net5.0\ActionAdventureGame.pdb
+D:\PatternWorld\Strategy-Pattern\ActionAdventureGame\obj\Debug\net5.0\ActionAdventureGame.genruntimeconfig.cache
