@@ -14,6 +14,10 @@ namespace ActionAdventureGame.characters
         {
             this.weapon = _weapon;
         }
+        public void UsedWeapon()
+        {
+            this.weapon.UseWeapon();
+        }
         public abstract void Fight();
     }
 }

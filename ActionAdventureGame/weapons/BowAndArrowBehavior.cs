@@ -9,9 +9,9 @@ namespace ActionAdventureGame.weapons
 {
     public class BowAndArrowBehavior : IWeaponBehavior
     {
-        public void useWeapon()
+        public void UseWeapon()
         {
-            Console.WriteLine("😣😣😣😣😣😣 fight with an bow and arrow 😣😣😣😣😣😣😣😣");
+            Console.WriteLine("%%%%%%%%%% fight with an bow and arrow %%%%%%%%%%");
         }
     }
 }

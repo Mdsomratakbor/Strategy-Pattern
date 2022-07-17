@@ -9,9 +9,9 @@ namespace ActionAdventureGame.weapons
 {
     public class AxeBehavior : IWeaponBehavior
     {
-        public void useWeapon()
+        public void UseWeapon()
         {
-            Console.WriteLine("😣😣😣😣😣😣 Chopping with an axe 😣😣😣😣😣😣😣😣");
+            Console.WriteLine("%%%%%%%%%% Chopping with an axe %%%%%%%%%%");
         }
     }
 }

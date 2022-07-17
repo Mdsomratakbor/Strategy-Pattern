@@ -9,9 +9,9 @@ namespace ActionAdventureGame.weapons
 {
     public class SwordBehavior : IWeaponBehavior
     {
-        public void useWeapon()
+        public void UseWeapon()
         {
-            Console.WriteLine("😣😣😣😣😣😣 swinging a sword 😣😣😣😣😣😣😣😣");
+            Console.WriteLine("%%%%%%%%%% swinging a sword %%%%%%%%%%");
         }
     }
 }

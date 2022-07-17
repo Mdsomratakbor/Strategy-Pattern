@@ -8,6 +8,6 @@ namespace ActionAdventureGame.interfaces
 {
     public interface IWeaponBehavior
     {
-        void useWeapon();
+        void UseWeapon();
     }
 }
